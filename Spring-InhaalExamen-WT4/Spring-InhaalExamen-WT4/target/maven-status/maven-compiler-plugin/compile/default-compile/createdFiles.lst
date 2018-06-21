@@ -1,0 +1,4 @@
+edu\ap\spring\controller\SimpleErrorController.class
+edu\ap\spring\RecipeApplication.class
+edu\ap\spring\controller\RecipeController.class
+edu\ap\spring\jpa\Recipe.class
