@@ -29,28 +29,28 @@ public class Recipe {
 	    	this.datum = datum;
     }
     
-    public String getFirstName() {
-		return firstName;
+    public String getNaam() {
+		return naam;
 	}
 
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
+	public void setNaam(String naam) {
+		this.naam = naam;
 	}
 
-	public String getLastName() {
-		return lastName;
+	public String getIngredienten() {
+		return ingredienten;
 	}
 
-	public void setLastName(String lastName) {
-		this.lastName = lastName;
+	public void setIngredienten(String ingredienten) {
+		this.ingredienten = ingredienten;
 	}
 
-	public int getGrade() {
-		return grade;
+	public Date getDatum() {
+		return datum;
 	}
 
-	public void setGrade(int grade) {
-		this.grade = grade;
+	public void setDatum(Date datum) {
+		this.datum = datum;
 	}
 
 }
